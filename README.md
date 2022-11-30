@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Rana
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working on React.js version 18 projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rharsh183@gmail.com
 
